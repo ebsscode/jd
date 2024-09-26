@@ -26,3 +26,4 @@
 ![](doc/img/05.png)
 ![](doc/img/06.png)
 ![](doc/img/07.png)
+![](doc/img/video.mp4)
